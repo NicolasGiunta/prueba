@@ -1,0 +1,32 @@
+[
+    {
+     "titulo": "despertarme",
+     "estado": "completado"
+    },
+    {
+     "titulo": "desayunar",
+     "estado": "completado"
+    },
+    {
+     "titulo": "estudiar",
+     "estado": "pendiente"
+    },
+    {
+     "titulo": "jugar a la play",
+     "estado": "pendiente"
+    },
+    {
+     "titulo": "hacer la cena",
+     "estado": "pendiente"
+    },
+    {
+     "titulo": "ir a dormir",
+     "estado": "pendiente"
+    },
+    {
+     "titulo": "bañarme",
+     "estado": "pendiente"
+    }
+   ]
+
+   
