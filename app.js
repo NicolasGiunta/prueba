@@ -1,4 +1,3 @@
-
 const tareas = require ("./funcionesdetareas.js")
 
 //preparo para poder leer lo que aparece en terminal
@@ -16,8 +15,4 @@ switch(myArgs[2]){
     default:
         console.log("No entiendo que quieres hacer");
         break;
-}
-
-function escribirJSON(myArray){
-    return stringify.myArray
 }
